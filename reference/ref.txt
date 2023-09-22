@@ -1,5 +1,12 @@
 
-1. https://www.gymlibrary.dev/index.html#
+1. Environments:
 
-2. https://github.com/wangshusen/DRL
+https://www.gymlibrary.dev/index.html#
+
+2. Notes & videos:
+
+https://github.com/wangshusen/DRL
  
+3. DDPG:
+
+https://github.com/wangshusen/deep-rl
